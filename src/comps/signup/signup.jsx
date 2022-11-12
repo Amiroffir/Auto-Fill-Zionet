@@ -4,7 +4,6 @@ import "./signup.css";
 import { useState } from "react";
 
 const collection = document.getElementsByTagName("input");
-
 export const Signup = ({ getDetails, js }) => {
   const [show, setShow] = useState("hidden");
   const handleSubmit = () => {
@@ -54,7 +53,7 @@ export const Signup = ({ getDetails, js }) => {
       <div className={show}>
         <div className="centeredA">
           <a className="bookmark" href={handleSubmit()}>
-            I'm your bookmark
+            My Auto Form Filler
           </a>
         </div>
       </div>
