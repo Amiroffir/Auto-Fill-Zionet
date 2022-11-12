@@ -1,5 +1,30 @@
 * {
-  margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+.title {
+  font-size: 2.3em;
+  font-weight: bold;
+  color: rgb(1, 106, 148);
+  font-family: cursive;
+  margin: 0 auto;
+  margin-top: 12px;
+  letter-spacing: 1px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+}
+.title3 {
+  font-size: 1.2em;
+  color: rgb(147, 209, 233);
+  font-weight: bold;
+  font-family: cursive;
+  margin: 0 auto;
+  margin-top: 10px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

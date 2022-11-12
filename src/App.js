@@ -23,10 +23,10 @@ function App() {
     jsRep += 'collection[7].style.backgroundColor = "red";';
 
     jsRep +=
-      'collection[3].onkeypress = () => {collection[3].style.backgroundColor = "lightgreen";};';
+      'collection[3].oninput = () => {collection[3].style.backgroundColor = "lightgreen";};';
 
     jsRep +=
-      'collection[7].onkeypress = () => {collection[7].style.backgroundColor = "lightgreen";};';
+      'collection[7].oninput = () => {collection[7].style.backgroundColor = "lightgreen";};';
 
     jsRep += "})();";
     setJs(jsRep);
@@ -34,6 +34,8 @@ function App() {
 
   return (
     <div className="app">
+      <h1 className="title">Bookmark maker</h1>
+      <h3 className="title3">Auto Fill ZioNet Form</h3>
       <Signup getDetails={getDetails} js={js} />
     </div>
   );
