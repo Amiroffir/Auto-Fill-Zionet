@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Auto-Fill-Zionet/static/css/main.4c799a7c.css",
+    "main.js": "/Auto-Fill-Zionet/static/js/main.2e7eec9e.js",
+    "index.html": "/Auto-Fill-Zionet/index.html",
+    "main.4c799a7c.css.map": "/Auto-Fill-Zionet/static/css/main.4c799a7c.css.map",
+    "main.2e7eec9e.js.map": "/Auto-Fill-Zionet/static/js/main.2e7eec9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c799a7c.css",
+    "static/js/main.2e7eec9e.js"
+  ]
+}
