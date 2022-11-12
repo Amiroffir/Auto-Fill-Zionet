@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./signup.css";
 import { useState } from "react";
 
-const collection = document.getElementsByTagName("input");
+const collection = document.getElementsByTagName("input"); // get all inputs
 export const Signup = ({ getDetails, js }) => {
   const [show, setShow] = useState("hidden");
   const handleSubmit = () => {
