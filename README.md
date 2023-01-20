@@ -1,6 +1,6 @@
 # Bookmark Maker - Automatic ZioNet Form Filler
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**React app for a quicker submitting HW/Exams/Projects Process**
 
  ## :point_right:  Get in - https://amiroffir.github.io/Auto-Fill-Zionet/ :point_left:	
 
