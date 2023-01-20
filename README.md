@@ -1,8 +1,7 @@
 # Bookmark Maker - Automatic ZioNet Form Filler
+React app for a quicker submitting HW/Exams/Projects Process
 
-**React app for a quicker submitting HW/Exams/Projects Process**
-
- ## :point_right:  Get in - https://amiroffir.github.io/Auto-Fill-Zionet/ :point_left:	
+## :point_right:  Get in - https://amiroffir.github.io/Auto-Fill-Zionet/ :point_left:	
 
 ### Overview
 This simple one page app was created during a course which his process of submitting the hw/exams each time became annoying.
