@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  ## :point_right:  Get in - https://amiroffir.github.io/Auto-Fill-Zionet/ :point_left:	
 
 ### Overview
-This simple one page app was created when I was during a course and the process of submitting the hw/exams each time became annoying.
+This simple one page app was created during a course which his process of submitting the hw/exams each time became annoying.
 
  **<ins>Users</ins>** - Me and my other friends for the course (+ future participants).
  
